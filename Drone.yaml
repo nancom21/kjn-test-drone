@@ -18,7 +18,7 @@ steps:
     username:
       from_secret: kjnrepositorysecretdrone
     password:
-      from_secret: DNMP@ssw0rd123!
+      from_secret: 111
     repo: nancom21/public_test2
     auto_tag: true
     auto_tag_suffix: drone-build
